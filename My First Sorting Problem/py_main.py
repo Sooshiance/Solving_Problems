@@ -19,3 +19,10 @@ for i in range(n):
         t.append(b)
     
     l.append(t)
+
+
+x = enumerate(l)
+
+
+for i, j in x:
+    print(j[0], " ", j[1])
