@@ -1,6 +1,7 @@
 # Solving Problems
 
-In this repo, I will solve <a href="https://codeforces.com/">CodeForces</a> website daily.
+In this repo, I will solve <a href="https://codeforces.com/">CodeForces</a> and 
+<a href="https://leetcode.com/">LeetCode</a> website daily.
 
 I will solve problems in Python version 3 or Java version 17 or C version 13.2.
 
